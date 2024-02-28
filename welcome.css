@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background: url(./assets/images/welcome.jpeg) no-repeat center center / cover;
+}
+
+/* .welcome {
+    max-width: 120px;
+} */
+
+.welcome img {
+    /* width: 100%; */
+}
